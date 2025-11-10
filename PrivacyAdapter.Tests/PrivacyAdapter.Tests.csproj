@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PrivacyAdapter.Core\PrivacyAdapter.Core.csproj" />
+  </ItemGroup>
+
 </Project>
